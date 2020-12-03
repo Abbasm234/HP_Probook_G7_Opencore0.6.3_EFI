@@ -2,7 +2,7 @@
 
 Intel Core i5-10210U processor
 Intel UHD 620 
-8GB DDr3 RAM
+8GB DDR4 RAM
 1TB NVME
 
 whats working:
